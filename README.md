@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mariana Camilo</h1>
-<h3 align="center">Curious mind from Ponta Grossa - Paraná.</h3>
+<h1 align="center">Hi 👋, I'm Pyuurin</h1>
+<h3 align="center">Curious mind from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyuurin&label=Profile%20views&color=0e75b6&style=flat" alt="pyuurin" /> </p>
 
 - 👩🏽 My pronoums are She/Hers
 
-- 🔭 I’m currently working on my **Undergrad Research on Vibration Analysis**
+- 🔭 I’m currently working on my final paper on **Fluid Mechanics**
 
-- 🌱 I’m currently learning **Microsoft Power BI**
+- 🌱 I’m currently studying **French**
 
 - 💬 Ask me about **Ansys Mechanical, I'll answer gladly**
 
