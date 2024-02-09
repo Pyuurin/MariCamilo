@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Ansys Mechanical, I'll answer gladly**
 
-- 📫 Reach me through **mariana.lopes.camilo@gmail.com** or **mcamilo@alunos.utfpr.edu.br**
+- 📫 Reach me through **mcamilo@alunos.utfpr.edu.br**
 
 - ⚡ Fun fact **I'm a very competitive Valorant player!**
 
