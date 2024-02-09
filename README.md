@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pyuurin</h1>
 <h3 align="center">Curious mind from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pyuurin&label=Profile%20views&color=0e75b6&style=flat" alt="pyuurin" /> </p>
+![](https://komarev.com/ghpvc/?username=Pyuurin&color=b2ac88)
 
 - 👩🏽 My pronoums are She/Hers
 
